@@ -2,12 +2,17 @@
 
 |Rank| Name | Requests/10s |
 | ---| --- | ---|
-|1|Rust|942k|
-|2|GO|801k|
-|3|C#|693k|
-|4|PHP|254k|
-|5|Node.js|225k|
-|6|Python3|97k|
+|1|C|1473k|
+|2|Rust|942k|
+|3|GO|801k|
+|4|C#|693k|
+|5|PHP|254k|
+|6|Node.js|225k|
+|7|Python3|97k|
+
+## C
+
+![alt text](images/image-6.png)
 
 ## GO
 
